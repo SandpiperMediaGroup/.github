@@ -4,8 +4,8 @@ We are 80% video production and 20% web development with a big emphasis on work 
 
 ## What we do
 
-- **Video production**: Corporate testimonials, training content, and promotional videos
-- **Web design**: Modern sites built with hand coding and platforms like Payload CMS (no WordPress)
+- **Video production**: Corporate testimonials, training content, and promotional videos.
+- **Web design**: Modern sites built on Nuxt (no WordPress).
 
 ## How we work
 
