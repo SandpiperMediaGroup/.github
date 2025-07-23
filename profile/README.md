@@ -1,12 +1,16 @@
-## Hi there 👋
+# Sandpiper Media Group
 
-<!--
+We are 80% video production and 20% web development with a big emphasis on work for startups.
 
-**Here are some ideas to get you started:**
+## What we do
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- **Video production**: Corporate testimonials, training content, and promotional videos
+- **Web design**: Modern sites built with hand coding and platforms like Payload CMS (no WordPress)
+
+## How we work
+
+Small crews, efficient workflows, and no unnecessary complexity. We handle everything from pre-production through final delivery.
+
+Based in Seattle, working with clients across the US.
+
+Find out more at [sandpipervideo.com](https://sandpipervideo.com).
